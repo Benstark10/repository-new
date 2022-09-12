@@ -20,4 +20,4 @@ Lista ordenada:
  <html>
   <html>
  [link]<https://www.google.es/?hl=ca
-![thumb_spider-man-tobey-maguire-meme-face-54094017(https://user-images.githubusercontent.com/96111636/189707830-0f794878-1cdc-455f-8464-d56c0624ade7.png)]
+<![thumb_spider-man-tobey-maguire-meme-face-54094017(https://user-images.githubusercontent.com/96111636/189707830-0f794878-1cdc-455f-8464-d56c0624ade7.png)]>
