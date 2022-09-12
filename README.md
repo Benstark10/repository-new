@@ -1,6 +1,6 @@
 # repository-new
 **cursiva**_negrita_
-*negrita*
+**negrita**
 
 _*negrita*_
 Primer repositorio Github
